@@ -1,1 +1,1 @@
-Project from the frontend development course.
+Project from the frontend development course (GoIT). 
